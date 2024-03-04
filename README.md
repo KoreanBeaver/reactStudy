@@ -79,5 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <li>https://opentutorials.org/course/4900/31265 4. REACT - 컴포넌트 만들기 / creating components</li>
 <li>https://opentutorials.org/course/4900/31266 5. REACT - props </li>
 <li>https://opentutorials.org/course/4900/31267 6. REACT - Event</li>
+<li>https://opentutorials.org/course/4900/31268 7. REACT - State</li>
+<li>https://opentutorials.org/course/4900/31269 8. REACT - Create</li>
+<li>https://opentutorials.org/course/4900/31270 9. REACT - Update</li>
 </ul>
 </p>
